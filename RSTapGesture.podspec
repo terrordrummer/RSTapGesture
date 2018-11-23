@@ -9,7 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'RSTapGesture'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RSTapGesture.'
+  s.summary          = 'A nicer approach to touch events.'
+  s.swift_version    = '4.2'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
