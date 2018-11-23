@@ -1,0 +1,16 @@
+PODS:
+  - RSTapGesture (0.1.0)
+
+DEPENDENCIES:
+  - RSTapGesture (from `../`)
+
+EXTERNAL SOURCES:
+  RSTapGesture:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RSTapGesture: d77d8f25c2526a7f3d8ec2a799321f81f845e313
+
+PODFILE CHECKSUM: 1c9e46b5a8aec242907d68b66cc8029c824eb359
+
+COCOAPODS: 1.5.3

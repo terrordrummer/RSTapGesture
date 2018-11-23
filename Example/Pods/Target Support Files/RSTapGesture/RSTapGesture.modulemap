@@ -1,0 +1,6 @@
+framework module RSTapGesture {
+  umbrella header "RSTapGesture-umbrella.h"
+
+  export *
+  module * { export * }
+}
