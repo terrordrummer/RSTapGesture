@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RSTapGesture_Example' do
+  pod 'RSTapGesture', :path => '../'
+
+  target 'RSTapGesture_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
